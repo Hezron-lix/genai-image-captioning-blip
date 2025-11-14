@@ -85,7 +85,7 @@ gr.close_all()
 ```
 
 ### OUTPUT:
-<img width="1146" height="615" alt="image" src="https://github.com/user-attachments/assets/a9e2687a-9e2e-478e-b4fa-b66f7674173d" />
+<img width="1146" height="615" alt="image" src="https://github.com/user-attachments/assets/4b6c1346-da39-4f04-884c-f5e7d346081d" />
 
 ### RESULT:
 Thus, the image captioning application using the BLIP model was successfully developed and deployed with Gradio. The system efficiently generates descriptive captions for images, demonstrating the practical use of multimodal AI in automation and accessibility.
